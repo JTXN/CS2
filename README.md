@@ -1,2 +1,2 @@
-# CS2
-Counter-Strike 2 Files
+# Counter-Strike 2 (CS2)
+Configuration and Other
